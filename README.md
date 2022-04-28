@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Romanian-RRT
 
 
 ## Data Format
